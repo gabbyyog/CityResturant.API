@@ -1,0 +1,12 @@
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/bin/Debug/net8.0/CityResturant.Domain.deps.json
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/bin/Debug/net8.0/CityResturant.Domain.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/bin/Debug/net8.0/CityResturant.Domain.pdb
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.AssemblyInfoInputs.cache
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.AssemblyInfo.cs
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.csproj.CoreCompileInputs.cache
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.sourcelink.json
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/refint/CityResturant.Domain.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/CityResturant.Domain.pdb
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Domain/obj/Debug/net8.0/ref/CityResturant.Domain.dll

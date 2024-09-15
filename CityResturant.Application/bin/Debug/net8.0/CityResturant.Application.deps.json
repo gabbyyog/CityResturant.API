@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CityResturant.Application/1.0.0": {
+        "dependencies": {
+          "CityResturant.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CityResturant.Application.dll": {}
+        }
+      },
+      "CityResturant.Domain/1.0.0": {
+        "runtime": {
+          "CityResturant.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CityResturant.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CityResturant.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

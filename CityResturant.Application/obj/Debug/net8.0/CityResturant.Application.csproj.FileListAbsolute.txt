@@ -1,0 +1,16 @@
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/bin/Debug/net8.0/CityResturant.Application.deps.json
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/bin/Debug/net8.0/CityResturant.Application.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/bin/Debug/net8.0/CityResturant.Application.pdb
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/bin/Debug/net8.0/CityResturant.Domain.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/bin/Debug/net8.0/CityResturant.Domain.pdb
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.csproj.AssemblyReference.cache
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.AssemblyInfoInputs.cache
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.AssemblyInfo.cs
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.csproj.CoreCompileInputs.cache
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.sourcelink.json
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityRest.23481BAF.Up2Date
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/refint/CityResturant.Application.dll
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/CityResturant.Application.pdb
+/Users/opeyemifalade/Desktop/Projectss/CityResturant.API/CityResturant.Application/obj/Debug/net8.0/ref/CityResturant.Application.dll
